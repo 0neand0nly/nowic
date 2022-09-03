@@ -1,4 +1,4 @@
-ê·¸ëŸ°ì¦‰ ë„ˆí¬ê°€ ë¨¹ë“ ì§€ ë§ˆì‹œë“ ì§€ ë¬´ì—‡ì„ í•˜ë“ ì§€ ë‹¤ í•˜ë‚˜ë‹˜ì˜ ì˜ê´‘ì„ ìœ„í•˜ì—¬ í•˜ë¼ (ê³ ì „10:31) 
+±×·±Áï ³ÊÈñ°¡ ¸ÔµçÁö ¸¶½ÃµçÁö ¹«¾ùÀ» ÇÏµçÁö ´Ù ÇÏ³ª´ÔÀÇ ¿µ±¤À» À§ÇÏ¿© ÇÏ¶ó (°íÀü10:31) 
 
 -------
 <img src="https://github.com/idebtor/nowic/blob/c4d8ad9a5a51d14744e3e5b66da376c8bef15292/images/cplus_ds_title.jpg?raw=true" width=1000>
@@ -8,13 +8,13 @@ Lecture notes by idebtor@gmail.com
 
 -----
 
-í•œë™ëŒ€ ì „ì‚°ì „ìž ê³µí•™ë¶€ Data Structures(DS, ìžë£Œ êµ¬ì¡°) ê°•ì˜ì— ì˜¤ì‹  ì—¬ëŸ¬ë¶„ì„ ì£¼ë‹˜ì˜ ì´ë¦„ìœ¼ë¡œ í™˜ì˜í•©ë‹ˆë‹¤.  ë³¸ ê°•ì˜ëŠ” DSë¿ë§Œ ì•„ë‹ˆë¼ C++ ê°•ì˜ë„ í¬í•¨ì´ ë˜ì–´ ìžˆìŠµë‹ˆë‹¤. ë‹¤ë§Œ, ìˆ˜ê°•ìžë“¤ì´ ê¸°ë³¸ì ì¸ C í”„ë¡œê·¸ëž˜ë°ì€ í•  ìˆ˜ ìžˆë‹¤ëŠ” ê²ƒì„ ê°€ì •í•©ë‹ˆë‹¤. ê·¸ëž˜ì„œ, ì €ëŠ” ì´ ê°•ì˜ë¥¼ __C++ for C Coders & Data Structures__ ë¼ê³  ë¶€ë¥´ê²Œ ë˜ì—ˆìŠµë‹ˆë‹¤.
+ÇÑµ¿´ë Àü»êÀüÀÚ °øÇÐºÎ Data Structures(DS, ÀÚ·á ±¸Á¶) °­ÀÇ¿¡ ¿À½Å ¿©·¯ºÐÀ» ÁÖ´ÔÀÇ ÀÌ¸§À¸·Î È¯¿µÇÕ´Ï´Ù.  º» °­ÀÇ´Â DS»Ó¸¸ ¾Æ´Ï¶ó C++ °­ÀÇµµ Æ÷ÇÔÀÌ µÇ¾î ÀÖ½À´Ï´Ù. ´Ù¸¸, ¼ö°­ÀÚµéÀÌ ±âº»ÀûÀÎ C ÇÁ·Î±×·¡¹ÖÀº ÇÒ ¼ö ÀÖ´Ù´Â °ÍÀ» °¡Á¤ÇÕ´Ï´Ù. ±×·¡¼­, Àú´Â ÀÌ °­ÀÇ¸¦ __C++ for C Coders & Data Structures__ ¶ó°í ºÎ¸£°Ô µÇ¾ú½À´Ï´Ù.
 
-ì´ê²ƒì€ DSë¥¼ ìˆ˜ê°•í•˜ëŠ” í•™ìƒë“¤ì„ ìœ„í•œ ê°œë°©í˜• ê°œë°œ í”Œëž«í¼ìž…ë‹ˆë‹¤. ì´ GitHubë¥¼ í†µí•´ì„œ ê°•ì˜ìžë£Œì™€ ë”ë¶ˆì–´ ìˆ˜ê°•ìƒë“¤ì´ ê°ë‹¹í•´ì•¼ í•  PSETS(Problem Sets)ì— ê³µê°œë˜ì§€ë§Œ, ìˆ˜ê°•ìƒ ì—¬ëŸ¬ë¶„ì—ê²ŒëŠ” updateí•  ê¶Œí•œì€ ì£¼ì–´ì§€ì§€ ì•„ë‹ˆí•©ë‹ˆë‹¤. ê·¸ëŸ¬ë¯€ë¡œ, ì—¬ëŸ¬ë¶„ ê°ìžê°€ ìžì‹ ì˜ ì»´í“¨í„°ì— Cloneì„ í•œ í›„, ì—¬ëŸ¬ë¶„ ìžì‹ ì˜ local repositoryë¡œ ë³µì‚¬í•˜ì—¬ ì—¬ëŸ¬ë¶„ ìžì‹ ì˜ ìž‘ì—…ì„ í•´ì•¼ í•©ë‹ˆë‹¤. ì´ repositoryì˜ ë‚´ìš©ì€ ì–¸ì œë“ ì§€ updateë˜ê¸° ë•Œë¬¸ìž…ë‹ˆë‹¤. Cloneí•œ repositoryì—ì„œ ìž‘ì—…ì„ í•˜ì§€ ë§ê¸¸ ë‹¹ë¶€í•©ë‹ˆë‹¤.  ë˜í•œ, ì—¬ê¸°ì— ì˜¬ë¦¬ëŠ” ë‚´ìš© ì¤‘ì— ìˆ˜ì •í•´ì•¼ í•  ê²ƒì´ë‚˜ ì¶”ê°€í•  ê²ƒì´ë‚˜ í˜¹ì€ ë” ì¢‹ì€ ìƒê°ì´ ìžˆìœ¼ë©´ ì œê²Œ ì•Œë ¤ì£¼ë©´ ë„ì›€ì´ ë˜ì–´ ì£¼ê¸¸ ë¶€íƒí•©ë‹ˆë‹¤.
+ÀÌ°ÍÀº DS¸¦ ¼ö°­ÇÏ´Â ÇÐ»ýµéÀ» À§ÇÑ °³¹æÇü °³¹ß ÇÃ·§ÆûÀÔ´Ï´Ù. ÀÌ GitHub¸¦ ÅëÇØ¼­ °­ÀÇÀÚ·á¿Í ´õºÒ¾î ¼ö°­»ýµéÀÌ °¨´çÇØ¾ß ÇÒ PSETS(Problem Sets)¿¡ °ø°³µÇÁö¸¸, ¼ö°­»ý ¿©·¯ºÐ¿¡°Ô´Â updateÇÒ ±ÇÇÑÀº ÁÖ¾îÁöÁö ¾Æ´ÏÇÕ´Ï´Ù. ±×·¯¹Ç·Î, ¿©·¯ºÐ °¢ÀÚ°¡ ÀÚ½ÅÀÇ ÄÄÇ»ÅÍ¿¡ CloneÀ» ÇÑ ÈÄ, ¿©·¯ºÐ ÀÚ½ÅÀÇ local repository·Î º¹»çÇÏ¿© ¿©·¯ºÐ ÀÚ½ÅÀÇ ÀÛ¾÷À» ÇØ¾ß ÇÕ´Ï´Ù. ÀÌ repositoryÀÇ ³»¿ëÀº ¾ðÁ¦µçÁö updateµÇ±â ¶§¹®ÀÔ´Ï´Ù. CloneÇÑ repository¿¡¼­ ÀÛ¾÷À» ÇÏÁö ¸»±æ ´çºÎÇÕ´Ï´Ù.  ¶ÇÇÑ, ¿©±â¿¡ ¿Ã¸®´Â ³»¿ë Áß¿¡ ¼öÁ¤ÇØ¾ß ÇÒ °ÍÀÌ³ª Ãß°¡ÇÒ °ÍÀÌ³ª È¤Àº ´õ ÁÁÀº »ý°¢ÀÌ ÀÖÀ¸¸é Á¦°Ô ¾Ë·ÁÁÖ¸é µµ¿òÀÌ µÇ¾î ÁÖ±æ ºÎÅ¹ÇÕ´Ï´Ù.
 
-ì—¬ëŸ¬ë¶„ì„ ì´ ê³¼ëª©ìœ¼ë¡œ ë§Œë‚˜ê³ , ë˜í•œ ì„¬ê¸¸ ìˆ˜ ìžˆì–´ì„œ ê°ì‚¬í•©ë‹ˆë‹¤.  
-ì£¼ ì•ˆì—ì„œ(ë¹šì§„ìž)<><   
-ì „ì‚°ì „ìžê³µí•™ë¶€ ê¹€ì˜ì„­ êµìˆ˜   
+¿©·¯ºÐÀ» ÀÌ °ú¸ñÀ¸·Î ¸¸³ª°í, ¶ÇÇÑ ¼¶±æ ¼ö ÀÖ¾î¼­ °¨»çÇÕ´Ï´Ù.  
+ÁÖ ¾È¿¡¼­(ºúÁøÀÚ)<><   
+Àü»êÀüÀÚ°øÇÐºÎ ±è¿µ¼· ±³¼ö   
 idebtor@gmail.com  
 
 ## Three ways to view markdown(.md) files
@@ -25,9 +25,9 @@ idebtor@gmail.com
    
 ### Web browser
   1. Install `Markdown Preview Plus` extension in your browser(Chrome, Edge).
-  2. Go to `extensions, ë„êµ¬ ë”ë³´ê¸° í˜¹ì€ í™•ìž¥` in the browser's setting 
-  3. Locate `Markdown Preview Plus` and click on the `DETAILS ì„¸ë¶€ì •ë³´`
-  4. Check the option `Allow access to file URLs, íŒŒì¼ URLì— ëŒ€í•œ ì•¡ì„¸ìŠ¤ í—ˆìš©`
+  2. Go to `extensions, µµ±¸ ´õº¸±â È¤Àº È®Àå` in the browser's setting 
+  3. Locate `Markdown Preview Plus` and click on the `DETAILS ¼¼ºÎÁ¤º¸`
+  4. Check the option `Allow access to file URLs, ÆÄÀÏ URL¿¡ ´ëÇÑ ¾×¼¼½º Çã¿ë`
   5. Drag and drop ~.md file in your brower.
   6. For `LaTex`, check the math option in `Markdown Preview Plus` icon in your brower top menubar'. 
   7. Enjoy nicely formatted HTML!
